@@ -1,0 +1,7 @@
+{
+  "name": "control mapping",
+  "domain": "healthcare analytics",
+  "score_floor": 0.74,
+  "review_window_hours": 24,
+  "expected_action": "review"
+}
